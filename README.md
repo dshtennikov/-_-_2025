@@ -140,6 +140,7 @@ jupyter notebook 2025_Data_00_prepairing_data.ipynb
 - **Визуализация**: matplotlib, seaborn
 - **Машинное обучение**: scikit-learn
 - **Предобработка**: LabelEncoder, StandardScaler, SimpleImputer
+- **API Mistral**
 
 ## Модели машинного обучения
 
