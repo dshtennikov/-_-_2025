@@ -195,6 +195,6 @@ Copyright (c) 2024 Data Science Salary Analysis Project
 Контакты
 По вопросам сотрудничества или дополнительной информации обращайтесь:
 
-Email: dshtennikov@gmail.com
+Email: dshtennikov@gmail.com; silakovalv@itmo.ru
 
 Этот проект предназначен для образовательных целей и анализа рынка труда в сфере Data Science.
